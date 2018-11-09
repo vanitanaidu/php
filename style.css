@@ -1,0 +1,99 @@
+
+body {
+  margin: 40px;
+
+}
+
+h2, p {
+  margin-bottom: 10px;
+  font-family: "Sans-Serif";
+  color: #333;
+}
+
+.category {
+  font-size: 0.85em;
+  color: #666;
+  border-bottom: 1px solid #d9d9d9;
+  padding-bottom: 10px;
+}
+
+.prob {
+  padding-bottom: 30px;
+}
+
+div.card-header {
+  background-color: #ffe263 !important;
+  color: white !important;
+  text-shadow: 20px 20px 40px #f4d03f;
+  border-radius: 0 !important;
+  border-color: #ffe263 !important;
+}
+
+.card {
+  border-color: #ffe263 !important;
+  border-radius: 0 !important;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.col-3, .col-9 {
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+.col-3.title, .col-9-title {
+  margin-bottom: 8px;
+}
+
+.col-3 input {
+  width: 100%;
+  color: grey;
+  font-size: 0.8em;
+  padding: 3px;
+  padding-left: 9px;
+}
+
+.col-9 input {
+  width: 100%;
+  color: grey;
+  font-size: 0.8em;
+  padding: 3px;
+  padding-left: 9px;
+  margin-bottom: 10px;
+
+}
+
+.add-button-item, .add-button-category {
+  background:none;
+  border:none;
+  margin:0;
+  padding:0;
+  cursor: pointer;
+  color: #428bca;
+  margin-bottom: 20px;
+}
+
+.add-button-category {
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+
+button.submit-button {
+  float:right;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  /*background:none;
+  border:none;*/
+  cursor: pointer;
+  /*color: #428bca;*/
+  font-size: 0.9em;
+}
+
+button.submit-button:hover {
+  color: #428bca;
+}
+
+
+
+/*
+add button color = #428bca or #3276b1*/
